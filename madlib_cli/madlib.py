@@ -73,3 +73,18 @@ and  what the tuple has  included the string like  format
 def merge(input_text,tub) :
 
     return  input_text.format(*tub)
+
+
+
+
+    """
+     create a function that creat a file named newFile in assets folder
+    
+    """
+
+def create_file(newFile):
+
+
+    with open("assets/new_file.txt", "w") as f:
+
+        f.write(newFile)
