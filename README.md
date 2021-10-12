@@ -5,3 +5,7 @@
 ## 3. create a function  called a  parse_template  done 
 ## 4. make  function named is marge that  tack string and tuple as par ameter 
 ## 5. create a function that creat a file named newFile in assets folder
+
+
+
+The pull requst : https://github.com/shahd1995913/madlib-cli/pull/1
