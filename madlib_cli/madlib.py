@@ -63,3 +63,13 @@ def parse_template(input):
 
 
 
+"""
+make  function named is marge that  tack string and tuple as par
+ameter 
+
+and  what the tuple has  included the string like  format
+"""
+
+def merge(input_text,tub) :
+
+    return  input_text.format(*tub)
